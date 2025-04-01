@@ -25,7 +25,7 @@ Matplotlib, Seaborn (for visualization)
 Olivetti Faces Dataset: Contains 400 grayscale images of 40 distinct individuals.
 Each person has 10 images captured under different lighting and facial expressions.
 Datasets :
-olivetti_faces_target.npy
+olivetti_faces_target.npy , 
 olivetti_faces.npy
 
 
